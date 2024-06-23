@@ -9,11 +9,9 @@
 }
 body {
     background-color: #ccdcf1;
-    width: 100%;
 }
 .cabecera{
     top: 0;
-
     width: 100%;
     position: fixed;
     color: rgb(255, 255, 255);
@@ -26,17 +24,10 @@ body {
     margin-top: 60px;
     border: 1px solid red;
     display: flex;
-    width: 100%;
     overflow: hidden;
 
 }
 .contenedor img{
     margin: auto;
     border: 1px solid black;
-    width: 2000px;
-
-
-}
-.estilo{
-    background-color: blue;
 }
